@@ -133,6 +133,24 @@ Data Processing Layer
 
 ---
 
+🚀 Live Demo
+AgroVista Deployment
+
+🌐 Application URL: https://agrovista-phi.vercel.app
+
+Explore the live platform to experience:
+
+📊 Interactive Agriculture Analytics Dashboard
+🌱 Crop Health Monitoring
+🤖 AI Recommendation Engine
+🐛 Pest Risk Intelligence
+💧 Smart Irrigation Insights
+📈 Trend Visualization & Reporting
+
+The live deployment showcases a production-ready implementation of a smart agriculture intelligence platform built using React, Tailwind CSS, Flask, and data analytics technologies.
+
+
+
 ## 🎯 Business Impact
 
 AgroVista helps farmers:
