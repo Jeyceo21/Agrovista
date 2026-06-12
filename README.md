@@ -116,21 +116,19 @@ Data Processing Layer
 * GitHub
 
 ---
-
 ## 📸 Screenshots
 
 ### Dashboard Overview
 
-*Add dashboard screenshot here*
+![Dashboard](src/screenshots/dashboard.png)
 
 ### AI Recommendation Engine
 
-*Add recommendation screenshot here*
+![Recommendations](src/screenshots/recommendations.png)
 
 ### Analytics View
 
-*Add analytics screenshot here*
-
+![Analytics](src/screenshots/analytics.png)
 ---
 
 ## 🎯 Business Impact
