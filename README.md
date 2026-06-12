@@ -129,6 +129,8 @@ Data Processing Layer
 ### Analytics View
 
 ![Analytics](src/screenshots/analytics.png)
+![Analytics](src/screenshots/analytics1.png)
+
 ---
 
 ## 🎯 Business Impact
