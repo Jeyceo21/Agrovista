@@ -305,4 +305,134 @@ Farmer Dashboard
 - Agricultural Decision Support
 
 ---
+---
 
+# 🗺️ Roadmap
+
+### ✅ Phase 1 — Completed
+
+- [x] Smart Agriculture Dashboard
+- [x] Crop Health Monitoring
+- [x] Soil Health Analytics
+- [x] Weather Monitoring
+- [x] Pest Risk Analysis
+- [x] AI-powered Recommendations
+
+---
+
+### 🚀 Phase 2 — Planned
+
+- [ ] Real-time IoT Sensor Integration
+- [ ] Satellite Image Monitoring
+- [ ] Machine Learning Crop Disease Detection
+- [ ] Weather Forecast API
+- [ ] Push Notifications
+
+---
+
+### 🌍 Phase 3 — Future Vision
+
+- [ ] Mobile Application
+- [ ] Multi-Farm Management
+- [ ] Farmer Community Portal
+- [ ] AI Chat Assistant
+- [ ] Cloud Deployment
+- [ ] Role-Based User Authentication
+
+---
+
+# 🤝 Contributing
+
+Contributions are welcome.
+
+If you'd like to improve AgroVista:
+
+1. Fork the repository.
+2. Create a new feature branch.
+3. Commit your changes.
+4. Push your branch.
+5. Open a Pull Request.
+
+Please ensure that your code is clean, well documented, and follows the project's coding standards.
+
+---
+
+# 👨‍💻 Author
+
+## Jeyanthan Petchimuthu
+
+AI Engineer • Machine Learning Engineer • Full Stack Developer
+
+🎓 B.Tech Computer Science Engineering
+
+NIIT University
+
+### Connect with me
+
+- 🐙 GitHub: https://github.com/Jeyceo21
+- 💼 LinkedIn: https://www.linkedin.com/in/jeyanthan-petchimuthu-777ba6329/
+- 📧 Email: jeyanthanpetchimuthu@gmail.com
+
+---
+
+# 📬 Contact
+
+I'm always open to discussing:
+
+- Artificial Intelligence
+- Machine Learning
+- Smart Agriculture
+- Full Stack Development
+- Open Source Collaboration
+
+Feel free to connect for project collaborations, internship opportunities, or technical discussions.
+
+---
+
+# 📜 License
+
+This project is licensed under the **MIT License**.
+
+You are free to use, modify, and distribute this project under the terms of the license.
+
+---
+
+# 🌟 Support
+
+If you found AgroVista useful, please consider giving this repository a ⭐.
+
+Your support motivates future improvements and helps others discover the project.
+
+---
+
+<p align="center">
+
+<b>🌱 AgroVista</b>
+
+AI-Powered Smart Agriculture Monitoring & Analytics Platform
+
+Built using
+
+<b>React • Node.js • Express • Chart.js • JavaScript</b>
+
+</p>
+
+---
+
+<p align="center">
+
+Designed & Developed by
+
+<h3>Jeyanthan Petchimuthu</h3>
+
+AI Engineer • Machine Learning Engineer • Full Stack Developer
+
+</p>
+
+<p align="center">
+
+⭐ Thank you for visiting this repository.
+
+Happy Coding! 🚀
+
+</p>
