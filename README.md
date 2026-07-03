@@ -85,3 +85,224 @@ AgroVista addresses these challenges through a centralized AI-powered dashboard 
 | AI | Rule-based Recommendation Engine |
 
 ---
+---
+
+# 🏗️ System Architecture
+
+```mermaid
+flowchart LR
+
+A[🌾 Farmer Dashboard] --> B[⚛️ React Frontend]
+
+B --> C[🟢 Express Backend]
+
+C --> D[📊 Analytics Engine]
+
+D --> E[🌱 Soil Monitoring]
+
+D --> F[🌦 Weather Monitoring]
+
+D --> G[🪲 Pest Risk Analysis]
+
+D --> H[🤖 AI Recommendation Engine]
+
+H --> I[📈 Smart Dashboard]
+```
+
+---
+
+# 📸 Dashboard Preview
+
+> Replace these placeholders with actual screenshots from your application.
+
+## 🏠 Dashboard
+
+<p align="center">
+
+<img src="assets/dashboard.png" width="100%"/>
+
+</p>
+
+---
+
+## 🌱 Crop Analytics
+
+<p align="center">
+
+<img src="assets/crop-analysis.png" width="100%"/>
+
+</p>
+
+---
+
+## 📊 AI Recommendation Panel
+
+<p align="center">
+
+<img src="assets/recommendation.png" width="100%"/>
+
+</p>
+
+---
+
+# 🎥 Demo
+
+<p align="center">
+
+<img src="assets/demo.gif" width="100%"/>
+
+</p>
+
+---
+
+# ⚙️ Technology Overview
+
+| Layer | Technology |
+|--------|------------|
+| Frontend | React + Vite |
+| Backend | Node.js + Express |
+| Charts | Chart.js |
+| Styling | CSS |
+| Data Processing | JavaScript |
+| AI Engine | Rule-based Recommendation System |
+
+---
+
+# 📂 Project Structure
+
+```text
+AgroVista/
+
+├── frontend/
+│   ├── src/
+│   ├── public/
+│   └── package.json
+│
+├── server/
+│   ├── index.js
+│   ├── routes/
+│   ├── controllers/
+│   └── package.json
+│
+├── assets/
+│   ├── banner.png
+│   ├── dashboard.png
+│   ├── crop-analysis.png
+│   ├── recommendation.png
+│   └── demo.gif
+│
+└── README.md
+```
+
+---
+
+# 🚀 Installation
+
+## Clone Repository
+
+```bash
+git clone https://github.com/Jeyceo21/AgroVista.git
+```
+
+---
+
+## Install Frontend
+
+```bash
+cd frontend
+
+npm install
+
+npm run dev
+```
+
+---
+
+## Install Backend
+
+```bash
+cd server
+
+npm install
+
+npm start
+```
+
+---
+
+# 💻 Usage
+
+1. Start the backend server.
+
+2. Launch the React frontend.
+
+3. Open the dashboard.
+
+4. Monitor crop conditions.
+
+5. Analyze soil health.
+
+6. Review weather information.
+
+7. Receive AI-powered recommendations.
+
+---
+
+# 🌾 AI Recommendation Pipeline
+
+```text
+Sensor Data
+
+      │
+
+      ▼
+
+Data Processing
+
+      │
+
+      ▼
+
+Crop Analytics
+
+      │
+
+      ▼
+
+Risk Assessment
+
+      │
+
+      ▼
+
+AI Recommendation Engine
+
+      │
+
+      ▼
+
+Farmer Dashboard
+```
+
+---
+
+# 🌍 Use Cases
+
+- Precision Agriculture
+
+- Smart Irrigation
+
+- Crop Monitoring
+
+- Pest Risk Assessment
+
+- Soil Health Analysis
+
+- Farm Analytics
+
+- Sustainable Farming
+
+- Agricultural Decision Support
+
+---
+
