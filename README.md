@@ -375,17 +375,27 @@ NIIT University
 
 ---
 
+---
+
 # 📬 Contact
 
-I'm always open to discussing:
+Interested in collaborating on AI, Machine Learning, or Full Stack projects?
+
+Feel free to connect for:
 
 - Artificial Intelligence
 - Machine Learning
 - Smart Agriculture
 - Full Stack Development
 - Open Source Collaboration
+- Internship Opportunities
+- Technical Discussions
 
-Feel free to connect for project collaborations, internship opportunities, or technical discussions.
+### Connect with Me
+
+- 🐙 GitHub: https://github.com/Jeyceo21
+- 💼 LinkedIn: https://www.linkedin.com/in/jeyanthan-petchimuthu-777ba6329/
+- 📧 Email: jeyanthanpetchimuthu@gmail.com
 
 ---
 
@@ -393,27 +403,29 @@ Feel free to connect for project collaborations, internship opportunities, or te
 
 This project is licensed under the **MIT License**.
 
-You are free to use, modify, and distribute this project under the terms of the license.
+You are free to use, modify, and distribute this project under the terms of the MIT License.
+
+For more details, see the **LICENSE** file.
 
 ---
 
-# 🌟 Support
+# ⭐ Support
 
-If you found AgroVista useful, please consider giving this repository a ⭐.
+If you found **AgroVista** useful, please consider giving this repository a ⭐.
 
-Your support motivates future improvements and helps others discover the project.
+Your support helps improve the project, encourages future development, and makes it easier for others to discover it.
 
 ---
 
 <p align="center">
 
-<b>🌱 AgroVista</b>
+## 🌱 AgroVista
 
-AI-Powered Smart Agriculture Monitoring & Analytics Platform
+### AI-Powered Smart Agriculture Monitoring & Analytics Platform
 
-Built using
+Built with
 
-<b>React • Node.js • Express • Chart.js • JavaScript</b>
+**React • Node.js • Express • Chart.js • JavaScript**
 
 </p>
 
@@ -421,20 +433,18 @@ Built using
 
 <p align="center">
 
-Designed & Developed by
+### Designed & Developed by
 
-<h3>Jeyanthan Petchimuthu</h3>
+## Jeyanthan Petchimuthu
 
-AI Engineer • Machine Learning Engineer • Full Stack Developer
+**AI Engineer • Machine Learning Engineer • Full Stack Developer**
 
 </p>
 
 <p align="center">
 
-⭐ Thank you for visiting this repository.
+Thank you for visiting this repository.
 
-Designed & Developed by
-
-Jeyanthan Petchimuthu
+If you found this project valuable, consider giving it a ⭐ and connecting with me on LinkedIn.
 
 </p>
