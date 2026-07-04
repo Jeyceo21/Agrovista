@@ -139,7 +139,7 @@ H --> I[📈 Smart Dashboard]
 
 <p align="center">
 
-<img src="assets/recommendation.png" width="100%"/>
+<img src="Screenshot 2026-06-12 181940.png" width="100%"/>
 
 </p>
 
