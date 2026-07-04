@@ -433,6 +433,8 @@ AI Engineer • Machine Learning Engineer • Full Stack Developer
 
 ⭐ Thank you for visiting this repository.
 
-Happy Coding! 🚀
+Designed & Developed by
+
+Jeyanthan Petchimuthu
 
 </p>
