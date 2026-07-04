@@ -119,7 +119,7 @@ H --> I[📈 Smart Dashboard]
 
 <p align="center">
 
-<img src="assets/dashboard.png" width="100%"/>
+<img src="dashboard.png" width="100%"/>
 
 </p>
 
@@ -129,17 +129,17 @@ H --> I[📈 Smart Dashboard]
 
 <p align="center">
 
-<img src="assets/crop-analysis.png" width="100%"/>
+<img src="farm-analytics.png" width="100%"/>
 
 </p>
 
 ---
 
-## 📊 AI Recommendation Panel
+## 🤖 AI Recommendation Panel
 
 <p align="center">
 
-<img src="Screenshot 2026-06-12 181940.png" width="100%"/>
+<img src="ai-recommendation-panel.png" width="100%" alt="AI Recommendation Panel"/>
 
 </p>
 
