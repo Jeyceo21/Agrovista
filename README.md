@@ -139,10 +139,9 @@ H --> I[📈 Smart Dashboard]
 
 <p align="center">
 
-<img src="ai-recommendation-panel.png" width="100%" alt="AI Recommendation Panel"/>
+<img src="ai-recommendation-pane.png" width="100%" alt="AI Recommendation Panel"/>
 
 </p>
-
 ---
 
 # 🎥 Demo
